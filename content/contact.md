@@ -8,4 +8,5 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+By [anish agrawal](https://www.anish.xyz)
+Try it out on [testflight](https://testflight.apple.com/join/nNTztWPs)

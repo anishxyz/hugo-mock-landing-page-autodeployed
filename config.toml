@@ -1,4 +1,4 @@
-baseURL = 'https://anishxyz.github.io/hugo-mock-landing-page/'
+baseURL = 'https://anishxyz.github.io/hugo-mock-landing-page-autodeployed/'
 title = "Habit Tracker"
 author = "Anish Agrawal"
 copyright = "Anish Agrawal"
